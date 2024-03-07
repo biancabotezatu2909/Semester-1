@@ -6,10 +6,10 @@ Welcome to Semester 1! Here's a brief overview of the courses you'll be diving i
 
 ### [2. Computer Systems Architecture ⚠](https://github.com/biancabotezatu2909/Computer-Systems-Architecture)
 
-### [3. Mathematical Analysis 📈]
+### 3. Mathematical Analysis 📈
 
-### [4. Algebra 🎁]
+### 4. Algebra 🎁
 
-### [5. Computational Logic 😒]
+### 5. Computational Logic 😒
 
 
